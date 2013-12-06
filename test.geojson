@@ -25,6 +25,38 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.328125,
+          52.482780222078226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -12.83203125,
+            61.438767493682825
+          ],
+          [
+            6.15234375,
+            68.13885164925573
+          ],
+          [
+            23.37890625,
+            61.10078883158897
+          ]
+        ]
+      }
     }
   ]
 }
