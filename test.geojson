@@ -3,23 +3,20 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "lineName": "My first Line"
+      },
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          3.515625,
-          55.97379820507658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.5234375,
-          55.429013452407396
+          [
+            5.4052734375,
+            57.18390185831188
+          ],
+          [
+            20.7861328125,
+            57.16007826737998
+          ]
         ]
       }
     }
