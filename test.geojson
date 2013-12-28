@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "lineName": "My first Line_",
+        "lineName": "my first line",
         "lineType": "test type"
       },
       "geometry": {
